@@ -1,1 +1,1 @@
-# Using-HC-SR04-Ultrasonic-sensor-with-Arduino
+# Distance measuring using HC-SR04 Ultrasonic sensor 
